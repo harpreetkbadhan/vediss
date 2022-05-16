@@ -56,7 +56,7 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Powered by IONOS
+          Powered by vedis
         </a>
       </footer>
     </div>
